@@ -1,6 +1,7 @@
 {
     "name": "dezzy-portfolio",
     "version": "0.1.0",
+    "homepage": ".",
     "private": true,
     "dependencies": {
         "@steveeeie/react-page-transition": "^1.2.1",
