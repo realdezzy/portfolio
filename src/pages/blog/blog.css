@@ -1,0 +1,26 @@
+.blog-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.blog-post {
+  width: 30%;
+  margin: 1%;
+  box-sizing: border-box;
+}
+
+.blog-post img {
+  width: 100%;
+}
+
+.blog-post h3 {
+  margin: 0;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.blog-post p {
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.5;
+}

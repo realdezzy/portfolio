@@ -67,6 +67,11 @@ const services = [{
     },
 ];
 
+const posts = [
+    { id: 1, title: 'My First Blog Post', body: 'This is the body of my first blog post', imageUrl: "https://picsum.photos/400/700/?grayscale" },
+    { id: 2, title: 'My Second Blog Post', body: 'This is the body of my second blog post', imageUrl: "https://picsum.photos/400/700/?grayscale" },
+  ];
+
 const dataportfolio = [{
         img: "https://hmhub.in/wp-content/uploads/2019/09/Event-Management.jpg",
         desctiption: "Evema - An event management decentralized application on the blockchain",
@@ -159,5 +164,6 @@ export {
     contactConfig,
     socialprofils,
     logotext,
+    posts
 };
 
