@@ -78,9 +78,9 @@ const dataportfolio = [{
         link: "https://evema.vercel.app",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://lh5.googleusercontent.com/AkfeYYM9VM1Kji9PViwVT83OT9g2Bj_fNDdD0kcMUjHF7BwIC2kSZ-zMMlfax82TU6U=w400",
+        desctiption: "Freelancing platform on the blockchain.",
+        link: "https://skillpay.digemart.com",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
